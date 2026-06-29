@@ -1,0 +1,53 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\eMMC_Samsung_aircraft\E01\Mavic_2_Enterprise_emmc_samsung_aircraft:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Verification Hashes]
+ MD5 verification hash: cf9b7c04833e2edb74d4301e9ac94544
+ SHA1 verification hash: 2e994e688ef0e94b8b7ae4185d58e3a1e15d4530
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 61,071,360
+[Image]
+ Image Type: E01
+ Case number:  
+ Evidence number:  
+ Examiner:  
+ Notes:  
+ Acquired on OS: Win 201x
+ Acquired using: ADI4.2.1.4
+ Acquire date: 6/29/2026 8:32:50 PM
+ System date: 6/29/2026 8:32:50 PM
+ Unique description: untitled
+ Source data size: 29820 MB
+ Sector count:    61071360
+[Computed Hashes]
+ MD5 checksum:    cf9b7c04833e2edb74d4301e9ac94544
+ SHA1 checksum:   2e994e688ef0e94b8b7ae4185d58e3a1e15d4530
+
+Image Information:
+ Acquisition started:   Mon Jun 29 17:02:06 2026
+ Acquisition finished:  Mon Jun 29 17:03:31 2026
+ Segment list:
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\eMMC_Samsung_aircraft\E01\Mavic_2_Enterprise_emmc_samsung_aircraft.E01
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\eMMC_Samsung_aircraft\E01\Mavic_2_Enterprise_emmc_samsung_aircraft.E02
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\eMMC_Samsung_aircraft\E01\Mavic_2_Enterprise_emmc_samsung_aircraft.E03
+
+Image Verification Results:
+ Verification started:  Mon Jun 29 17:03:31 2026
+ Verification finished: Mon Jun 29 17:04:52 2026
+ MD5 checksum:    cf9b7c04833e2edb74d4301e9ac94544 : verified
+ SHA1 checksum:   2e994e688ef0e94b8b7ae4185d58e3a1e15d4530 : verified

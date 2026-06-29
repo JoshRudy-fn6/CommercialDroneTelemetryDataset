@@ -1,0 +1,57 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Verification Hashes]
+ MD5 verification hash: 8c1ceab336a38b6c7aa318bcd2246d86
+ SHA1 verification hash: 5094a8ff4d0a83944a1dd4aa6e09c7f170798fdf
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 62,325,760
+[Image]
+ Image Type: E01
+ Case number:  
+ Evidence number:  
+ Examiner:  
+ Notes:  
+ Acquired on OS: Win 201x
+ Acquired using: ADI4.2.1.4
+ Acquire date: 6/29/2026 8:37:57 PM
+ System date: 6/29/2026 8:37:57 PM
+ Unique description: untitled
+ Source data size: 30432 MB
+ Sector count:    62325760
+[Computed Hashes]
+ MD5 checksum:    8c1ceab336a38b6c7aa318bcd2246d86
+ SHA1 checksum:   5094a8ff4d0a83944a1dd4aa6e09c7f170798fdf
+
+Image Information:
+ Acquisition started:   Mon Jun 29 17:00:24 2026
+ Acquisition finished:  Mon Jun 29 17:01:47 2026
+ Segment list:
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E01
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E02
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E03
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E04
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E05
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E06
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\SDCard_external\E01\Mavic_2_Enterprise-sdcard_external.E07
+
+Image Verification Results:
+ Verification started:  Mon Jun 29 17:01:47 2026
+ Verification finished: Mon Jun 29 17:03:16 2026
+ MD5 checksum:    8c1ceab336a38b6c7aa318bcd2246d86 : verified
+ SHA1 checksum:   5094a8ff4d0a83944a1dd4aa6e09c7f170798fdf : verified
