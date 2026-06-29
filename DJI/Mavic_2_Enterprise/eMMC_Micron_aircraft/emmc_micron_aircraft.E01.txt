@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\eMMC_Micron_aircraft\E01\emmc_micron_aircraft:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 7,651,328
+[Image]
+ Image Type: Raw (dd)
+ Source data size: 3736 MB
+ Sector count:    7651328
+[Computed Hashes]
+ MD5 checksum:    f635f50b66bd93883f948b9b4d292d5d
+ SHA1 checksum:   4354166d1d758ee021fd065fc66500a0963d02c1
+
+Image Information:
+ Acquisition started:   Mon Jun 29 17:07:06 2026
+ Acquisition finished:  Mon Jun 29 17:07:16 2026
+ Segment list:
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\eMMC_Micron_aircraft\E01\emmc_micron_aircraft.E01
+
+Image Verification Results:
+ Verification started:  Mon Jun 29 17:07:16 2026
+ Verification finished: Mon Jun 29 17:07:26 2026
+ MD5 checksum:    f635f50b66bd93883f948b9b4d292d5d : verified
+ SHA1 checksum:   4354166d1d758ee021fd065fc66500a0963d02c1 : verified
