@@ -1,0 +1,29 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\aircraft_logical\mavic_2_enterprise_aircraft_logical.ad1:
+[Computed Hashes]
+ MD5 checksum:    67ce2a3e757c24eb6b48e8093432e166
+ SHA1 checksum:   d0ef1941a7d6519bc0d8e9cf9e606bba27afd1f1
+
+Image information:
+ Acquisition started:   Mon Jun 29 20:41:20 2026
+ Acquisition finished:  Mon Jun 29 20:42:16 2026
+ Segment list:
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\aircraft_logical\mavic_2_enterprise_aircraft_logical.ad1
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_2_Enterprise\aircraft_logical\mavic_2_enterprise_aircraft_logical.ad2
+
+Image Verification Results:
+ Verification started:  Mon Jun 29 20:42:16 2026
+ Verification finished: Mon Jun 29 20:42:22 2026
+ MD5 checksum:    67ce2a3e757c24eb6b48e8093432e166 : verified
+ SHA1 checksum:   d0ef1941a7d6519bc0d8e9cf9e606bba27afd1f1 : verified
