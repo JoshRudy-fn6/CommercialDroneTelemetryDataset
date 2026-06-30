@@ -1,0 +1,55 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_Pro\2018\E01\mavic_pro_intact_sdcard_internal:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Verification Hashes]
+ MD5 verification hash: b525cf21e85534d329797c0a4787fdd7
+ SHA1 verification hash: 5dc7a5d072c68e533fc02018be140552fbe7539a
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 31,116,288
+[Image]
+ Image Type: E01
+ Case number:  
+ Evidence number:  
+ Examiner:  
+ Notes:  
+ Acquired on OS: Win 201x
+ Acquired using: ADI4.2.1.4
+ Acquire date: 6/29/2026 8:28:54 PM
+ System date: 6/29/2026 8:28:54 PM
+ Unique description: untitled
+ Source data size: 15193 MB
+ Sector count:    31116288
+[Computed Hashes]
+ MD5 checksum:    b525cf21e85534d329797c0a4787fdd7
+ SHA1 checksum:   5dc7a5d072c68e533fc02018be140552fbe7539a
+
+Image Information:
+ Acquisition started:   Mon Jun 29 19:27:42 2026
+ Acquisition finished:  Mon Jun 29 19:28:26 2026
+ Segment list:
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_Pro\2018\E01\mavic_pro_intact_sdcard_internal.E01
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_Pro\2018\E01\mavic_pro_intact_sdcard_internal.E02
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_Pro\2018\E01\mavic_pro_intact_sdcard_internal.E03
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_Pro\2018\E01\mavic_pro_intact_sdcard_internal.E04
+  U:\VS_Code\CommercialDroneTelemetryDataset\DJI\Mavic_Pro\2018\E01\mavic_pro_intact_sdcard_internal.E05
+
+Image Verification Results:
+ Verification started:  Mon Jun 29 19:28:26 2026
+ Verification finished: Mon Jun 29 19:28:59 2026
+ MD5 checksum:    b525cf21e85534d329797c0a4787fdd7 : verified
+ SHA1 checksum:   5dc7a5d072c68e533fc02018be140552fbe7539a : verified
